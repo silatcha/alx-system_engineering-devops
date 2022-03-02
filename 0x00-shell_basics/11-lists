@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(ls -lan 0x00-shell_basics)" echo " $(ls -lan $(pwd))" echo "$(ls -lan  /boot)"
+ls -lan $(pwd)  $(pwd)/../  /boot
