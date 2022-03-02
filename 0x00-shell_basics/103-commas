@@ -1,2 +1,2 @@
-ls -mda */
+ls -map
 #!/bin/bash
