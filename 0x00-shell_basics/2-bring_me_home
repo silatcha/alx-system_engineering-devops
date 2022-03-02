@@ -1,2 +1,2 @@
-$($HOME)
+cd $HOME
 #!/bin/bash
