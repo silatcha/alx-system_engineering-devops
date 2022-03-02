@@ -1,2 +1,2 @@
-echo"$(ls -la)"
-echo"#!/bin/bash"
+echo "$(ls -la)"
+#!/bin/bash"
