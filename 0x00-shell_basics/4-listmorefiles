@@ -1,1 +1,2 @@
 echo"$(ls -la)"
+echo"#!/bin/bash"
