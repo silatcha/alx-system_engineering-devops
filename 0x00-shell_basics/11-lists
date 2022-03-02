@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(ls -a)" echo "$(cd .. | ls -a)" echo "$(ls -a /boot)"
+ls -lan 0x00-shell_basics $(pwd)  /boot
