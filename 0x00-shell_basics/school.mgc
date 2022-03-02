@@ -1,2 +1,2 @@
 #!/bin/bash
-file -Cim School
+file -e School
