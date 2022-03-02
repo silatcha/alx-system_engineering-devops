@@ -1,2 +1,2 @@
-ls -a | grep -v / | tr ,
+ls -mda */
 #!/bin/bash
